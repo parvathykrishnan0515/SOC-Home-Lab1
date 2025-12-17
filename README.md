@@ -62,7 +62,7 @@ activities—demonstrating practical SOC analyst skills aligned with enterprise 
   <li>Linux authentication logs</li>
   <li>Network-related events</li>
 </ul>
-<p><i>📸 Ref 2: Log Ingestion Verification</i></p>
+<p><img src="Log Ingestion Verification.png" alt="SOC Architecture Diagram" width="800"></p>
 
 <h3>🔹 Step 3: Attack Simulation</h3>
 <ul>
@@ -70,14 +70,14 @@ activities—demonstrating practical SOC analyst skills aligned with enterprise 
   <li>Windows login brute-force attempts</li>
   <li>Malicious and encoded PowerShell execution</li>
 </ul>
-<p><i>📸 Ref 3: Attack Simulation Activity</i></p>
+<p><img src="Attack Simulation Activity.png" alt="SOC Architecture Diagram" width="800"></p>
 
 <h3>🔹 Step 4: Detection Rule Creation</h3>
 <ul>
   <li>Multiple failed authentication attempts</li>
   <li>Suspicious or encoded PowerShell commands</li>
 </ul>
-<p><i>📸 Ref 4: SIEM Detection Rule Configuration</i></p>
+<p><img src=".png" alt="SOC Architecture Diagram" width="800"></p>
 
 <h3>🔹 Step 5: Alert Monitoring & Investigation</h3>
 <ul>
@@ -86,7 +86,7 @@ activities—demonstrating practical SOC analyst skills aligned with enterprise 
   <li>Correlated events across multiple data sources</li>
   <li>Determined alert severity and legitimacy</li>
 </ul>
-<p><i>📸 Ref 5: Alert Investigation Dashboard</i></p>
+<p><img src="Alert Investigation.png" alt="SOC Architecture Diagram" width="800"></p>
 
 <h3>🔹 Step 6: Incident Documentation & Reporting</h3>
 <ul>
@@ -95,7 +95,7 @@ activities—demonstrating practical SOC analyst skills aligned with enterprise 
   <li>MITRE ATT&CK technique mapping</li>
   <li>Final verdict (True Positive / False Positive)</li>
 </ul>
-<p><i>📸 Ref 6: Incident Investigation Report</i></p>
+<p><img src="Investigation Report.png" alt="SOC Architecture Diagram" width="800"></p>
 
 <hr>
 
