@@ -54,7 +54,7 @@ activities—demonstrating practical SOC analyst skills aligned with enterprise 
   <li>Attacker machine generating malicious activity</li>
   <li>Log forwarding from endpoints to the SIEM</li>
 </ul>
-<p><img src="Soc Lab Architecture.png" alt="SOC Architecture Diagram" width="800"></p>
+<p><img src="SOC Lab Architecture.png" alt="SOC Architecture Diagram" width="800"></p>
 
 <h3>🔹 Step 2: Log Collection & Ingestion</h3>
 <ul>
