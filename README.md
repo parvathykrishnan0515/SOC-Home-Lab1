@@ -2,7 +2,7 @@
 
 <h2>🎯 Objective</h2>
 <p>
-The <b>SOC Home Lab – SIEM & Incident Detection</b> project was designed to build a realistic
+The <b>SOC Home Lab 1 – SIEM & Incident Detection</b> project was designed to build a realistic
 Security Operations Center (SOC) environment for detecting, analyzing, and investigating
 security incidents.
 </p>
