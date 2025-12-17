@@ -1,4 +1,4 @@
-<h1>🛡️ SOC Home Lab – SIEM & Incident Detection</h1>
+<h1>🛡️ SOC Home Lab 1 – SIEM & Incident Detection</h1>
 
 <h2>🎯 Objective</h2>
 <p>
@@ -54,7 +54,7 @@ activities—demonstrating practical SOC analyst skills aligned with enterprise 
   <li>Attacker machine generating malicious activity</li>
   <li>Log forwarding from endpoints to the SIEM</li>
 </ul>
-<p><i>📸 Ref 1: SOC Lab Architecture Diagram</i></p>
+<p><img src="images/soc-architecture.png" alt="SOC Architecture Diagram" width="800"></p>
 
 <h3>🔹 Step 2: Log Collection & Ingestion</h3>
 <ul>
