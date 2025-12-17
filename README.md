@@ -77,7 +77,7 @@ activities—demonstrating practical SOC analyst skills aligned with enterprise 
   <li>Multiple failed authentication attempts</li>
   <li>Suspicious or encoded PowerShell commands</li>
 </ul>
-<p><img src=".png" alt="SOC Architecture Diagram" width="800"></p>
+<p><img src="SIEM Detection Rule Configuration.png" alt="SOC Architecture Diagram" width="800"></p>
 
 <h3>🔹 Step 5: Alert Monitoring & Investigation</h3>
 <ul>
